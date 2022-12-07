@@ -14,4 +14,5 @@ https://note.com/kohya_ss/n/nbf7ce8d80f29
 - 支持训练Stable diffusion 2.0 
 
 ## 运行
-直接在autodl上使用环境运行：[点击使用](https://www.codewithgpu.com/i/CrazyBoyM/native-finetune-diffusion-autodl/native-finetune-diffusion)
+可直接在autodl上使用环境在线运行训练（1块钱每小时）：[点击运行](https://www.codewithgpu.com/i/CrazyBoyM/native-finetune-diffusion-autodl/native-finetune-diffusion)  
+也可以到codewithgpu界面把docker镜像下载到本地使用nvidia-docker运行。
