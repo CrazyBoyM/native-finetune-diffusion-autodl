@@ -14,4 +14,4 @@ https://note.com/kohya_ss/n/nbf7ce8d80f29
 - 支持训练Stable diffusion 2.0 
 
 ## 运行
-直接在autodl上使用环境运行。
+直接在autodl上使用环境运行：[点击使用](https://www.codewithgpu.com/i/CrazyBoyM/native-finetune-diffusion-autodl/native-finetune-diffusion)
